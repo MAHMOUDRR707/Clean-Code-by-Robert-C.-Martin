@@ -1,2 +1,6 @@
 # Clean-Code---IEEE-CS-ZSB
-notes for “Clean Code: A Handbook of Agile Software Craftsmanship"
+
+Notes for “Clean Code: A Handbook of Agile Software Craftsmanship"
+
+
+Each chaper has its own patch in this repository 
