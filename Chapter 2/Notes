@@ -1,0 +1,37 @@
+# Clean-Code-Chapter-2 (naming)
+
+
+* naming of classes ,variables , function and files
+
+
+* name is very important for users and programmer
+
+
+* name of any topic tell the user of program what it used for  
+
+
+* avoid using number in naming
+
+
+* use prouncable names  
+
+
+* dont name variables  as "a"  or "z"   try to put name for it like "Event" 
+
+
+* dont put data_type in names 
+
+
+* avoid perfix names
+ 
+ 
+* class >>>  nouns   function >>> verb 
+
+
+* Avoid long names 
+
+
+* first letter  in first word is small and every new word in name is capital 
+
+
+
