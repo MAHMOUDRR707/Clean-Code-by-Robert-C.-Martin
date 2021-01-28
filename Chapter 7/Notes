@@ -1,0 +1,34 @@
+# Clean-Code-Chapter-7
+
+
+
+* there is tow error in programming  : 
+1 - error : not recoverable  and caused by system memory error , annonation error .. etc
+2- exception :  recoverable  caused by application code like file not found, time  etc 
+
+
+
+** using exception 
+1 -  make the program to stop 
+2 -code is cleaner with exception than with  errors 
+
+
+
+** using error 
+1- doesnt make the program tos top 
+2- errors mmust be handled 
+
+
+
+*exception is perfered  errors
+
+
+
+*  dont return null 
+
+
+*design your special case (method) well 
+
+
+
+* dont pass null to method 
