@@ -1,0 +1,26 @@
+# Clean-Code-Chapter-9
+
+
+*testing >>  messy test  will lead to diffcult to maintain or add  >> hard to increase  >>  Bugs >>  code roots >> Product issues >>  unhappy customer 
+
+
+
+* clean test means F.I.R.S.T 
+
+
+F - fast 
+I - independent 
+R - repeatablly  can run in diiferent devices 
+S - simple to read 
+T- timely 
+
+
+
+*clean test benfiets on : 
+1 - flexbile to add and maintance 
+2- happy customer  
+3 - enable to make complex software system 
+
+
+
+
