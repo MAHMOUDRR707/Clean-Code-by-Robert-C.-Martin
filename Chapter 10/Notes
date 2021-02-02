@@ -1,0 +1,28 @@
+# Notes - chapter 10 
+
+
+
+**clean class == Labeled tool box (example) 
+
+
+*small  with single responsibility and has one reason for change  
+
+
+
+*depend on abstraction and dont focus on implementation 
+
+
+
+* greater use between private and public , var and method 
+
+
+
+*Readable fuction , var , class names 
+
+
+
+
+
+
+
+
