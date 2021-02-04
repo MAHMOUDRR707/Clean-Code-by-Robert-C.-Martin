@@ -1,0 +1,19 @@
+#Chapter 13 
+
+
+** concurrent code 
+
+
+* one line of code turn to multi lines of bytes code and instructions
+
+
+
+*concurrent clean programs are hard to write 
+
+
+
+*  doing operation in parallel time not  synchronous
+
+
+
+
